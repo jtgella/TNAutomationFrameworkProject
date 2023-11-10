@@ -13,7 +13,7 @@ import com.tutorialsninja.qa.pages.HomePage;
 import com.tutorialsninja.qa.pages.LoginPage;
 import com.tutorialsninja.qa.utils.Utilities;
 
-//Stopped at 8:20:58, start of part 8
+//Stopped at 10:52:34, middle of part 10
 
 public class LoginTest extends Base{
 
